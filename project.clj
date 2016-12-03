@@ -117,8 +117,8 @@
                      {:output-to "target/test.js"
                       :main "galeri.doo-runner"
                       :optimizations :whitespace
-                      :pretty-print true}}}}
+                      :pretty-print true}}}}}
                   
-                  }
+
    :profiles/dev {}
    :profiles/test {}})
