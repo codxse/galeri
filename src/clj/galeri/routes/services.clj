@@ -10,7 +10,7 @@
    :pass-confirm String})
 
 (s/defschema Result
-  {:reslut s/Keyword
+  {:result s/Keyword
    (s/optional-key :message) String})
 
 (defapi service-routes

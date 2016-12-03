@@ -9,6 +9,6 @@
       params
       :id validator/required
       :pass [validator/required
-             [validator/min-count 7 :message "Password must contain at least 8 chars!"]
+             [validator/min-count 8 :message "Password must contain at least 8 chars!"]
              [= pass-confirm :message "Re-entered password does not match!"]])))
 

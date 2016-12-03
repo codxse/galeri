@@ -33,3 +33,6 @@ notifying browser that file changed:  out/galeri/validation.js
 [0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
 [32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.386 seconds.[0m
 notifying browser that file changed:  out/galeri/validation.js
+[0mCompiling "target/cljsbuild/public/js/app.js" from ["src/cljs" "src/cljc" "env/dev/cljs"]...[0m
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.001 seconds.[0m
+notifying browser that file changed:  out/galeri/validation.js
